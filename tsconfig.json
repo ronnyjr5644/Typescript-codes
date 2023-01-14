@@ -1,0 +1,8 @@
+{
+    "compilerOptions":{
+        "watch":true
+    },
+    "files": [
+        "first.js"
+    ]
+}
